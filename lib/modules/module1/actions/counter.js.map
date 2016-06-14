@@ -1,0 +1,1 @@
+{"version":3,"sources":["modules/module1/actions/counter.js"],"names":[],"mappings":";;;;;QAEgB,G,GAAA,G;AAFT,MAAM,oBAAM,KAAZ;;AAEA,SAAS,GAAT,GAAe;AAClB,WAAO;AACH,cAAM;AADH,KAAP;AAGH","file":"modules/module1/actions/counter.js","sourcesContent":["export const ADD = 'ADD';\n\nexport function add() {\n    return {\n        type: ADD,\n    };\n}\n"],"sourceRoot":"/"}

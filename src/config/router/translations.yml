@@ -1,0 +1,8 @@
+common:
+    routeTranslations:
+        module1:
+            fr: module1
+            en: module1
+        module2:
+            fr: module2
+            en: module2

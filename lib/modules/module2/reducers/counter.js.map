@@ -1,0 +1,1 @@
+{"version":3,"sources":["modules/module2/reducers/counter.js"],"names":[],"mappings":";;;;;kBAAwB,O;AAAT,SAAS,OAAT,GAAoC;AAAA,QAAnB,KAAmB,yDAAX,CAAW;AAAA,QAAR,MAAQ;;AAC/C,WAAO,KAAP;AACH","file":"modules/module2/reducers/counter.js","sourcesContent":["export default function counter(state = 0, action) {\n    return state;\n}\n"],"sourceRoot":"/"}

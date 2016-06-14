@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/layouts/Html.jsx"],"names":[],"mappings":";;;;;;AAAA","file":"views/layouts/Html.js","sourcesContent":["import Html from 'fody-html-layout';\nexport default Html;\n"],"sourceRoot":"/"}
