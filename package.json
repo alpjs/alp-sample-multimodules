@@ -7,27 +7,27 @@
   "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
   "license": "MIT",
   "dependencies": {
-    "alauda": "^1.1.0",
-    "alp": "^3.4.0",
-    "alp-react-redux": "^3.0.0",
-    "fody-html-layout": "^2.2.0",
+    "alauda": "^2.5.0",
+    "alp": "^10.0.0",
+    "alp-react-redux": "^8.0.0",
+    "fody-html-layout": "^4.1.0",
     "react": "^15.1.0",
     "react-pure-render": "^1.0.2",
-    "turaco-styl": "0.7.1"
+    "turaco-styl": "0.14.1"
   },
   "devDependencies": {
-    "alp-dev": "^2.3.1",
+    "alp-dev": "^7.0.0",
     "babel-cli": "^6.10.1",
-    "babel-eslint": "^6.0.4",
-    "eslint": "^2.12.0",
-    "eslint-config-airbnb": "^9.0.1",
-    "eslint-config-pob": "^6.1.1",
-    "eslint-plugin-import": "^1.8.1",
-    "eslint-plugin-jsx-a11y": "^1.4.2",
-    "eslint-plugin-react": "^5.1.1",
-    "mocha": "^2.5.3",
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.17.1",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-config-pob": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0",
+    "mocha": "^3.2.0",
     "node-fetch": "^1.5.3",
-    "springbokjs-daemon": "^0.2.0",
+    "springbokjs-daemon": "^2.1.0",
     "stylus": "^0.54.5"
   }
 }
